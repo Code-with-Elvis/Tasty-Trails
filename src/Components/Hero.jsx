@@ -26,7 +26,7 @@ const Hero = () => {
         </p>
         <Link
           to="products"
-          className="inline-block text-[15px] font-serif mt-10 rounded-md btn  py-2.5 px-14 font-medium outline outline-[2px] outline-green-600 outline-offset-2 max-[600px]:px-8 max-[600px]:py-1.8 max-[600px]:text-sm"
+          className="inline-block text-[15px] font-serif mt-10 rounded-md btn  py-2.5 px-14 font-medium outline outline-[2px] outline-green-600 outline-offset-2 max-[600px]:px-8 max-[600px]:py-1.8 max-[600px]:text-sm whitespace-nowrap"
         >
           Explore Products
         </Link>
